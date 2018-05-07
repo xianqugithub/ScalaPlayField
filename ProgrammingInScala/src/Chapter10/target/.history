@@ -1,7 +1,0 @@
-:q
-q
-Spiral.scala
-q
-cd ..
-scalac
-scala
