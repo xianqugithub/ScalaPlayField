@@ -19,6 +19,8 @@ object cp7ws {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._;
   };System.out.println("""multiTable: ()String""");$skip(26); 
   
   val t = multiTable();System.out.println("""t  : String = """ + $show(t ))}
+  
+  
  
   
 }
